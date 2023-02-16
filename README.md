@@ -1,3 +1,3 @@
-** this is my first project **
+**This is my first project**
 
-This is first README.md
+This is first **README.md**
